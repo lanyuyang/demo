@@ -18,6 +18,7 @@ public class MapUtil {
 
             }
         });
+
         Map result = new LinkedHashMap();
 
         for (Iterator it = list.iterator(); it.hasNext();) {
