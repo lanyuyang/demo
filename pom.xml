@@ -7,7 +7,7 @@
     <groupId>com.iflytek.demo</groupId>
     <artifactId>demo-service</artifactId>
     <version>0.5.1</version>
-
+<!--test1-->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
