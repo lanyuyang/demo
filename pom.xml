@@ -8,6 +8,7 @@
     <artifactId>demo-service</artifactId>
     <version>0.5.1</version>
 <!--test3-->
+    <!--test-->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
